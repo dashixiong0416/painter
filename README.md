@@ -1,8 +1,3 @@
----
-title: 'Project documentation template'
-disqus: hackmd
----
-
 Painter
 ===
 ![](https://i.imgur.com/21O65WJ.png)
